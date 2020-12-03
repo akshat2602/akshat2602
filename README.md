@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Akshat Sharma
 <h3 align="center">I'm a second year Computer Engineering student. I code sometimes :)</h3>
 
-- 🌱 Exploring **Django-Rest-Framework**
+- 🌱 Exploring Django-Rest-Framework
 
-- 💬 Ask me about **anything and I'll find an answer for you**
+- 💬 Ask me about anything and I'll find an answer for you
 
-- 📫 How to reach me **akshatsharma2602@gmail.com**
+- 💻 Intern at @ <a href="https://www.linkedin.com/company/bitglaze-technologies-pvt-ltd/">Bitglaze Technologies</a>
 
-- ⚡ Fun fact **I watch e-sports and sometimes anime too**
+- ⚡ Fun fact I watch e-sports and sometimes anime too
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
