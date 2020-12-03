@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Hi, I'm Akshat Sharma</h1>
+### Hi there 👋 I'm Akshat Sharma
 <h3 align="center">I'm a second year Computer Engineering student. I code sometimes :)</h3>
 
 - 🌱 Exploring **Django-Rest-Framework**
