@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Akshat Sharma
 <h3 align="center">I'm a second year Computer Engineering student. I code sometimes :)</h3>
 
+<br>
+
 - 🌱 Exploring Django-Rest-Framework
 
 - 💬 Ask me about anything and I'll find an answer for you
