@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aksh47__" target="blank"><img align="center" src="<a href="<a href="https://icons8.com/icon/13963/twitter">Twitter icon by Icons8</a>">Twitter icon by Icons8</a>" alt="aksh47__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshat-sharma-2602" target="blank"><img align="center" src="<a href="<a href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">LinkedIn icon by Icons8</a>">LinkedIn icon by Icons8</a>" alt="akshat-sharma-2602" height="30" width="40" /></a>
-<a href="https://kaggle.com/akshat2602" target="blank"><img align="center" src="<a href="https://icons8.com/icon/1iP83OYM1FL-/kaggle">Kaggle icon by Icons8</a>" alt="akshat2602" height="30" width="40" /></a>
+<a href="https://twitter.com/aksh47__" target="blank"><img align="center" src="https://icons8.com/icon/13963/twitter" alt="aksh47__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshat-sharma-2602" target="blank"><img align="center" src=https://icons8.com/icon/xuvGCOXi8Wyg/linkedin alt="akshat-sharma-2602" height="30" width="40" /></a>
+<a href="https://kaggle.com/akshat2602" target="blank"><img align="center" src="https://icons8.com/icon/1iP83OYM1FL-/kaggle" alt="akshat2602" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
