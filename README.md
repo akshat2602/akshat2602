@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aksh47__" target="blank"><img align="center" src="https://icons8.com/icon/13963/twitter" alt="aksh47__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshat-sharma-2602" target="blank"><img align="center" src=https://icons8.com/icon/xuvGCOXi8Wyg/linkedin alt="akshat-sharma-2602" height="30" width="40" /></a>
-<a href="https://kaggle.com/akshat2602" target="blank"><img align="center" src="https://icons8.com/icon/1iP83OYM1FL-/kaggle" alt="akshat2602" height="30" width="40" /></a>
+<a href="https://twitter.com/aksh47__" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/twitter--v1.png" alt="aksh47__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshat-sharma-2602" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="akshat-sharma-2602" height="30" width="40" /></a>
+<a href="https://kaggle.com/akshat2602" target="blank"><img align="center" src="https://img.icons8.com/windows/32/4a90e2/kaggle.png" alt="akshat2602" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
