@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Akshat Sharma
+<h1 align="center">Hi there 👋 I'm Akshat Sharma </h1>
 <h3 align="center">I'm a second year Computer Engineering student. I code sometimes :)</h3>
 
 
