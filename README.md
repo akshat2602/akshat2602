@@ -8,7 +8,7 @@
 
 - 💻 Exploring anything and everything that I find interesting.
 
-- ⚡ Fun fact: I watch e-sports and sometimes anime too.
+- ⚡I watch e-sports and sometimes anime too.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
