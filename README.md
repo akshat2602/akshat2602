@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Akshat Sharma </h1>
 <h3 align="center">I'm a second year Computer Engineering student. I code sometimes :)</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akshat2602&label=Profile%20views&color=0e75b6&style=flat" alt="akshat2602" /> </p>
 
 - 🔭 I’m currently pursuing Computer Engineering at **PICT, Pune**
 
@@ -40,5 +41,6 @@
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a> </p>
 
-![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=akshat2602&theme=dracula&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2602&theme=dracula&show_icons=true&count_private=true&layout=compact)
-
+![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=akshat2602&theme=dracula&show_icons=true&count_private=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2602&theme=dracula&show_icons=true&count_private=true&layout=compact) 
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshat2602&theme=dracula) -->
