@@ -1,22 +1,23 @@
 <h1 align="center">Hi there 👋 I'm Akshat Sharma </h1>
-<h3 align="left">I'm a second year Computer Engineering student. I code sometimes :)</h3>
+<h3 align="center">I'm a second year Computer Engineering student. I code sometimes :)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshat2602&label=Profile%20views&color=0e75b6&style=flat" alt="akshat2602" /> </p>
-<img align="right" src="https://tenor.com/baeMq.gif" alt="gif" />
+<img align="right" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif?itemid=14794084" alt="gif" height="250px" />
+
 - 🔭 FOSSEE Summer Fellow @ <a href="https://fossee.in"> FOSSEE - IIT BOMBAY </a>
 
 - 💻 Backend Intern @ <a href="https://dataorc.in">DataOrc </a>
 
 - ⚡ I'm open for tech talks and Internship Opportunities.
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/akshat-sharma-2602" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:akshatsharma2602@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://kaggle.com/akshat2602" target="blank"><img src="https://img.shields.io/badge/Kaggle-2496ED?style=for-the-badge&logo=kaggle&logoColor=white&color=blue" alt="akshat2602"/></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.shields.io/badge/Bash-D14836?style=for-the-badge&logo=gnubash&logoColor=white&color=black" alt="bash"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>  
