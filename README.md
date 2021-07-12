@@ -2,7 +2,7 @@
 <h3 align="center">I'm a second year Computer Engineering student. I code sometimes :)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshat2602&label=Profile%20views&color=0e75b6&style=flat" alt="akshat2602" /> </p>
-<img align="right" src="https://i.imgur.com/yHiVlDT.jpg" alt="gif" height="400px" />
+<img align="right" src="https://i.imgur.com/yHiVlDT.jpg" alt="gif" height="250px" />
 
 - 🔭 FOSSEE Summer Fellow @ <a href="https://fossee.in"> FOSSEE - IIT BOMBAY </a>
 
