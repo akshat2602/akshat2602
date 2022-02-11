@@ -13,8 +13,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/akshat-sharma-2602" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:akshatsharma2602@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://kaggle.com/akshat2602" target="blank"><img src="https://img.shields.io/badge/Kaggle-2496ED?style=for-the-badge&logo=kaggle&logoColor=white&color=blue" alt="akshat2602"/></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -28,12 +26,14 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> </a> 
   <a href="https://www.netlify.com/" target="_blank"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> </a> 
+  <a href="https://www.nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=next.js&logoColor=white"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-D14836?style=for-the-badge&logo=mysql&logoColor=white&color=00758F" alt="mysql"/>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a> 
     <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/Postman-2496ED?style=for-the-badge&logo=postman&logoColor=white&color=orange" alt="postman"/> </a> 
     <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>  
     <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/Pytorch-2496ED?style=for-the-badge&logo=pytorch&logoColor=white&color=E32D5B" alt="pytorch" /> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a>   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"></a> 
+      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" /> </a>  </p>
 
 <p align="center"> 
