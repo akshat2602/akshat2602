@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshat2602&label=Profile%20views&color=0e75b6&style=flat" alt="akshat2602" /> </p>
 <img align="right" src="https://cdn.discordapp.com/attachments/647098272175095808/878312984093548645/akshat.gif" alt="gif" height="250px" />
 
-- 🔭 Former FOSSEE Summer Fellow @ <a href="https://fossee.in"> FOSSEE - IIT BOMBAY </a>
+- 🔭 Currently interning @ <a href="https://ai4bharat.org/"> AI4Bharat, IIT Madras </a>
 
-- 💻 Former Backend Intern @ <a href="https://dataorc.in">DataOrc </a>
+- 💻 Former FOSSEE Summer Fellow @ <a href="https://fossee.in"> FOSSEE - IIT BOMBAY </a>
 
 - ⚡ I'm open for tech talks and Internship Opportunities.
 <h3 align="left">Connect with me:</h3>
