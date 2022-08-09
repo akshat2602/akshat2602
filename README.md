@@ -8,7 +8,7 @@
 
 - 💻 Former FOSSEE Summer Fellow @ <a href="https://fossee.in"> FOSSEE - IIT BOMBAY </a>
 
-- ⚡ I'm open for tech talks and Internship Opportunities.
+- ⚡ Currently exploring Go and NestJS
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/akshat-sharma-2602" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
