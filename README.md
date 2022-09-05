@@ -4,9 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshat2602&label=Profile%20views&color=0e75b6&style=flat" alt="akshat2602" /> </p>
 <img align="right" src="https://cdn.discordapp.com/attachments/647098272175095808/878312984093548645/akshat.gif" alt="gif" height="250px" />
 
-- 🔭 Currently interning @ <a href="https://ai4bharat.org/"> AI4Bharat, IIT Madras </a>
-
-- 💻 Former FOSSEE Summer Fellow @ <a href="https://fossee.in"> FOSSEE - IIT BOMBAY </a>
+- 💻 Former Summer Fellow @ <a href="https://fossee.in"> FOSSEE - IIT BOMBAY </a> and Former Backend Intern @ <a href="https://ai4bharat.org/"> AI4Bharat, IIT Madras</a>
 
 - ⚡ Currently exploring Go and NestJS
 <h3 align="left">Connect with me:</h3>
