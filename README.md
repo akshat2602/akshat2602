@@ -36,7 +36,7 @@
 
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akshat2602&theme=dracula" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=akshat2602&theme=dracula&hide_border=true" />
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=akshat2602&theme=dracula&hide_border=true" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=akshat2602&theme=dracula&show_icons=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2602&theme=dracula&show_icons=true&count_private=true&layout=compact" /> -->
 </p>
