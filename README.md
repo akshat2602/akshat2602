@@ -14,7 +14,7 @@
   
 
 <p align="right">
-  <img align="right" src="https://cdn.discordapp.com/attachments/647098272175095808/878312984093548645/akshat.gif" alt="gif" height="200px" />
+  <img align="right" src="https://cdn.discordapp.com/attachments/647098272175095808/878312984093548645/akshat.gif" alt="gif" height="50px" />
 </p
 
 <p align="left"> 
