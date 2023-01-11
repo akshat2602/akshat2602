@@ -11,11 +11,13 @@
   <a href="mailto:akshatsharma2602@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/akshat2602" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   
-<img align="right" src="https://cdn.discordapp.com/attachments/647098272175095808/878312984093548645/akshat.gif" alt="gif" height="150px" />
 
-
+<p align="right">
+  <img align="right" src="https://cdn.discordapp.com/attachments/647098272175095808/878312984093548645/akshat.gif" alt="gif" height="200px" />
+</p
 
 <p align="left"> 
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akshat2602&theme=dracula" />
    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=akshat2602&theme=dracula&show_icons=true&count_private=true" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2602&theme=dracula&show_icons=true&count_private=true&layout=compact" /> -->
