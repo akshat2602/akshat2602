@@ -11,7 +11,7 @@
   <a href="mailto:akshatsharma2602@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/akshat2602" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   
-<img align="right" src="https://cdn.discordapp.com/attachments/647098272175095808/878312984093548645/akshat.gif" alt="gif" height="200px" />
+<img align="right" src="https://cdn.discordapp.com/attachments/647098272175095808/878312984093548645/akshat.gif" alt="gif" height="150px" />
 
 
 
