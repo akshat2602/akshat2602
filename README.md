@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshat2602&label=Profile%20views&color=0e75b6&style=flat" alt="akshat2602" /> </p>
 
-* ⚡ Tech @ <a href="https://app.getsupermind.com"> Supermind </a>
+* ⚡ Ex-Founding Engineer @ <a href="https://app.getsupermind.com"> Supermind </a>
 * 💻 Former Summer Fellow @ <a href="https://fossee.in"> FOSSEE - IIT BOMBAY </a> and Former Backend Intern @ <a href="https://ai4bharat.org/"> AI4Bharat, IIT Madras</a>
 
 <h3 align="left">Connect with me:</h3>
