@@ -20,6 +20,6 @@
 <p align="left"> 
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akshat2602&theme=dracula" />
-   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=akshat2602&theme=dracula&show_icons=true&count_private=true" />
+  <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=akshat2602&theme=dracula&show_icons=true&count_private=true" /> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2602&theme=dracula&show_icons=true&count_private=true&layout=compact" /> -->
 </p>
