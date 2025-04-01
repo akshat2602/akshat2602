@@ -12,7 +12,7 @@
   <a href="mailto:akshat.sharma@stonybrook.edu" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <p align="right">
-  <img align="right" src="https://cdn.discordapp.com/attachments/647098272175095808/878312984093548645/akshat.gif" alt="gif" height="175px" />
+  <img align="right" src="https://media1.tenor.com/m/d9gKQjAee98AAAAd/delete-anime-press.gif" alt="gif" height="175px" />
 </p
 
 <p align="left"> 
